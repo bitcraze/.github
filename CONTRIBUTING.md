@@ -33,4 +33,4 @@ There is some basic requirement for us to merge a pull request:
  - Describe the change
  - Refer to any issues it effects
  - Separate one pull request per functionality: if you start writing "and" in the feature description consider if it could be separated in two pull requests.
- - The pull request must pass the automated test (see test section below)
+ - The pull request must pass the automated testing
