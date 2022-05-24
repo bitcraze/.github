@@ -7,6 +7,6 @@ Are you stuck or have any questions about anything Crazyflie-related or any of o
 * [FAQ](https://www.bitcraze.io/support/f-a-q/)
 * [Troubleshooting](https://www.bitcraze.io/support/troubleshooting/)
 
-And if you are still not able to find a solution to your problem, please use Bitcraze forum: [forum.bitcraze.io](https://forum.bitcraze.io/)
+And if you are still not able to find a solution to your problem, please use Bitcraze forum: [discussions.bitcraze.io](https://discussions.bitcraze.io/)
 
 
