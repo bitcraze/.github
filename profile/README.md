@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.bitcraze.io/wp-content/uploads/2017/01/BC-logo-2017-for-light-background@2x.png" alt="Bitcraze Logo" width="300"/>
+[<img src="https://www.bitcraze.io/wp-content/uploads/2017/01/BC-logo-2017-for-light-background@2x.png" alt="Bitcraze Logo" width="300"/>](https://www.bitcraze.io/)
 
 </div>
 
