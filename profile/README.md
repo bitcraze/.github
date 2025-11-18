@@ -6,7 +6,7 @@
 
 ---
 
-Welcome to Bitcraze's GitHub repositories! We design and manufacture the [**Crazyflie**](https://store.bitcraze.io/collections/platforms) – a versatile and open nano quadcopter platform for robotics research, education, and development.
+Welcome to Bitcraze's GitHub repositories! We design and manufacture the [**Crazyflie**](https://www.bitcraze.io/products/crazyflie-2-1-plus/) – a versatile and open nano quadcopter platform for robotics research, education, and development.
 
 Our mission is to enable people to explore, investigate, innovate, research, and educate in the world of robotics and autonomous systems. Here you'll find all the open source firmware, software, clients, tools, and libraries we maintain for the [Crazyflie ecosystem](https://www.bitcraze.io/documentation/system/).
 
