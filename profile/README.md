@@ -1,11 +1,3 @@
-<div align="center">
-
-[<img src="https://www.bitcraze.io/wp-content/uploads/2017/01/BC-logo-2017-for-light-background@2x.png" alt="Bitcraze Logo" width="300"/>](https://www.bitcraze.io/)
-
-</div>
-
----
-
 Welcome to Bitcraze's GitHub repositories! We design and manufacture the [**Crazyflie**](https://www.bitcraze.io/products/crazyflie-2-1-plus/) – a versatile and open nano quadcopter platform for robotics research, education, and development.
 
 Our mission is to enable people to explore, investigate, innovate, research, and educate in the world of robotics and autonomous systems. Here you'll find all the open source firmware, software, clients, tools, and libraries we maintain for the [Crazyflie ecosystem](https://www.bitcraze.io/documentation/system/).
