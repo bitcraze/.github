@@ -3,13 +3,12 @@ Contributing
 
 👍🎉 Thanks a lot for considering contributing 🎉👍
 
-We welcome and encourage contribution. There is many way to contribute: you can
-write bug report, contribute code or documentation. 
+We welcome and encourage contributions. There are many ways to contribute: you can report bugs, suggest improvements, or contribute code and documentation.
 
-For more information go to:
+Before you open a pull request, please read our [General guidelines for code contributions](https://www.bitcraze.io/development/contribute/general-guidelines/). They explain what we expect from a pull request and help us review it quickly.
 
-[Contributing Guidelines](https://www.bitcraze.io/development/contribute/)
+For other ways to contribute, see [Contribute](https://www.bitcraze.io/development/contribute/).
 
-If you want to know more about development for Bitcraze products go to the:
+If you want to know more about development for Bitcraze products, see the [Development overview](https://www.bitcraze.io/development/development-overview/).
 
-[Development Overview](https://www.bitcraze.io/development/development-overview/)
+If you have questions, ask in [GitHub Discussions](https://github.com/orgs/bitcraze/discussions).
